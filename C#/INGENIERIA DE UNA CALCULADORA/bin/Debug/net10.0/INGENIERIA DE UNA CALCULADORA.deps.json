@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "INGENIERIA DE UNA CALCULADORA/1.0.0": {
+        "runtime": {
+          "INGENIERIA DE UNA CALCULADORA.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "INGENIERIA DE UNA CALCULADORA/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
